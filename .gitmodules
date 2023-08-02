@@ -1,0 +1,3 @@
+[submodule "PolyFuzz-upstream"]
+	path = PolyFuzz-upstream
+	url = https://github.com/fuzz-evaluator/PolyFuzz-upstream.git

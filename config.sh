@@ -1,0 +1,1 @@
+DOCKER_IMAGE_NAME="polyfuzz-eval"
